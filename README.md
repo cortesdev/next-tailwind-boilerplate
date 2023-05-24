@@ -93,4 +93,4 @@ import TextField from 'components/TextField.tsx'
 
 > Under `/public/static/favicons/`
 
-![preview](https://cdn.discordapp.com/attachments/797485737272541250/952211815046197278/Frame_7.png)
+![preview](https://i.ibb.co/C5G8hQv/Group-4.jpg)
