@@ -21,7 +21,7 @@ Under the _components_ folder, use Container for each of your pages - as it prov
 ```
 
 1. With 'Clone' repository
-   ![preview](https://i.ibb.co/Ybnyzm6/boilerplate-cortesdev.jpg)
+   ![preview](https://i.ibb.co/dfbdTd3/git.jpg)
 
    2. Clone the project
 
