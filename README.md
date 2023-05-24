@@ -93,4 +93,4 @@ import TextField from 'components/TextField.tsx'
 
 > Under `/public/static/favicons/`
 
-![preview](https://i.ibb.co/C5G8hQv/Group-4.jpg)
+![preview](https://i.ibb.co/VW492TD/Group-4.jpg)
