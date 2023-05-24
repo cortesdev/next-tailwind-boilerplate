@@ -1,2 +1,1 @@
-# next-taiwind-boilerplate
-next-taiwind-boilerplate
+# next tailwind ts boilerplate
